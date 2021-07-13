@@ -1,2 +1,2 @@
 # ba765-assignments
-This is my assignment 1 repository for BA765.
+This is where I store all my assignments for BA765. Enjoy!
